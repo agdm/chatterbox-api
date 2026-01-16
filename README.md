@@ -1,5 +1,7 @@
 # Chatterbox TTS API
 
+![alt text](image.png)
+
 A quick API experiment to test returning audio data over HTTP.
 
 Purpose: API backend for the Chatterbox TTS model.
@@ -10,7 +12,7 @@ Purpose: API backend for the Chatterbox TTS model.
 
 Generates an MP3 file based on input.
 
-__Requirement__: Currently requires an audio file called preview.mp3 to be in the root of the application.
+__Requirement__: Currently requires an audio file called _preview.mp3_ to be in the root of the application.
 
 ```bash
 # Generate MP3 Audio
